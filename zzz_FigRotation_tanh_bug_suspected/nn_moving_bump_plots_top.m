@@ -1,0 +1,5 @@
+load moving_bump_cosyne_state_panelA
+nn_moving_bump_plot1
+load moving_bump_cosyne_state_panelsBC
+nn_moving_bump_plot2
+nn_moving_bump_plot3
